@@ -23,6 +23,7 @@ router.post('/login',function(req,res){
 
 
 	console.log(uname+","+pwd);
+	console.log(uname+","+pwd);
 })
 
 router.post('/regist',function(req,res){//请求 相应
